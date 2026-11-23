@@ -1,0 +1,5 @@
+scenario,pooled t-test,Welch t-test,permutation (diff in means)
+"normal, equal var, n=15/15",0.039,0.0385,0.0385
+"exponential, n=10/10",0.051,0.048,0.0565
+unequal var small group sd 3 n=10/40,0.244,0.0505,0.243
+unequal var big group sd 3 n=40/10,0.0025,0.049,0.003

@@ -1,0 +1,13 @@
+distribution,n,t_coverage,bootstrap_coverage
+normal,10,0.94625,0.91
+normal,30,0.95175,0.9466666666666667
+normal,100,0.9515,0.935
+normal,300,0.955,0.9416666666666667
+lognormal (sigma=1.5),10,0.71925,0.6816666666666666
+lognormal (sigma=1.5),30,0.782,0.7916666666666666
+lognormal (sigma=1.5),100,0.8495,0.85
+lognormal (sigma=1.5),300,0.8885,0.9066666666666666
+"Student t, 3 d.o.f.",10,0.96275,0.91
+"Student t, 3 d.o.f.",30,0.953,0.9283333333333333
+"Student t, 3 d.o.f.",100,0.954,0.96
+"Student t, 3 d.o.f.",300,0.9555,0.935
